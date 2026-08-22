@@ -25,8 +25,8 @@ export const site = {
     // so neither this file nor the HTML we publish contains a plain, scrapable
     // address. Edit the two halves rather than pasting a whole address here.
     // PLACEHOLDER — must be a monitored mailbox; Stripe and customers both use it.
-    emailUser: "support",
-    emailDomain: "example.com",
+    emailUser: "fishbrosllc",
+    emailDomain: "gmail.com",
 
     // PLACEHOLDER — optional. A phone number strengthens a Stripe review, but
     // an email address on its own meets their requirement. Leave "" to hide.
@@ -45,10 +45,10 @@ export const site = {
     },
 
     // State the governing law of the Terms. PLACEHOLDER — your LLC's state.
-    governingState: "Delaware",
+    governingState: "Texas",
 
     // Expected response window shown on the contact page.
-    responseTime: "within 2 business days",
+    responseTime: "within 5 business days",
   },
 
   // Currency all prices are charged in. Stripe requires this to be stated.
