@@ -9,8 +9,9 @@
 export const site = {
   legalName: "Fishbros, LLC",
   shortName: "Fishbros",
-  // Used for canonical URLs and metadata. A <user>.github.io repo serves at the root.
-  url: "https://fishbrosllc.github.io",
+  // Used for canonical URLs and metadata. Must match the custom domain in
+  // public/CNAME and in Settings -> Pages.
+  url: "https://fishbros.llc",
 
   // One sentence, plain language: what a customer is buying.
   // PLACEHOLDER — rewrite to describe the actual product or service.
