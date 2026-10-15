@@ -24,9 +24,9 @@ export const site = {
     // The address is kept in two halves and joined in the browser at runtime,
     // so neither this file nor the HTML we publish contains a plain, scrapable
     // address. Edit the two halves rather than pasting a whole address here.
-    // PLACEHOLDER — must be a monitored mailbox; Stripe and customers both use it.
-    emailUser: "fishbrosllc",
-    emailDomain: "gmail.com",
+    // Must stay a monitored mailbox; Stripe and customers both use it.
+    emailUser: "info",
+    emailDomain: "fishbros.llc",
 
     // PLACEHOLDER — optional. A phone number strengthens a Stripe review, but
     // an email address on its own meets their requirement. Leave "" to hide.
